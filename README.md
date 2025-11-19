@@ -99,5 +99,5 @@ endmodule
 <img width="1483" height="831" alt="{71C1DCD3-5F79-4B9A-9DD0-724923D9AD20}" src="https://github.com/user-attachments/assets/c563b48e-b54d-46c2-9e0e-89a8f40b0dcf" />
 
 **Result:**
-
+Thus the basic logic gates are studied and the truth tables are verified.
 
