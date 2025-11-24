@@ -96,9 +96,11 @@ endmodule
 ![Logic symbol with Truth table](https://github.com/user-attachments/assets/4bc35eef-72dd-4b0c-9136-806c5047ea23)
 
 **RTL**
+
 <img width="1479" height="853" alt="Screenshot 2025-11-18 195234" src="https://github.com/user-attachments/assets/c83ceaf5-2990-49bd-8af0-f06507686939" />
 
 **WAVEFORM**
+
 <img width="1483" height="831" alt="{71C1DCD3-5F79-4B9A-9DD0-724923D9AD20}" src="https://github.com/user-attachments/assets/c563b48e-b54d-46c2-9e0e-89a8f40b0dcf" />
 
 **Result:**
